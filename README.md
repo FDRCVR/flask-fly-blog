@@ -1,10 +1,6 @@
-> © 2025 Alexander Tumanov — All Rights Reserved  
-> Owner: **A. Tumanov** • Websites: [tumanov.blog](https://tumanov.blog) • [tumanov.org](https://tumanov.org) • [tumanov.xyz](https://tumanov.xyz)
+<small>© 2025 Alexander Tumanov — All Rights Reserved • [tumanov.blog](https://tumanov.blog) • [tumanov.org](https://tumanov.org) • [tumanov.xyz](https://tumanov.xyz)</small>
 
 ---
-
-
-
 
 # Flask Fly Blog
 
